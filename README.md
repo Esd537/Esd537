@@ -69,7 +69,7 @@ Not over-engineered. Just right.
 <br/>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Esd537&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esd537&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esd537&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=7"/>
 
 <br/><br/>
 
